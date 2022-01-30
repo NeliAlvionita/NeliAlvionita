@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @NeliAlvionita
 - 🌱 I’m currently learning Flutter for Mobile Developer
 - 💞️ I’m interested in Math
+- NGODING ITU SUSAH KATA SIAPA GAMPANG :))
